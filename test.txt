@@ -1,2 +1,3 @@
 This is a gitTestText!
-这是一个git测试文件！
+这是一个git测试文件！(修改一下)
+新添加一行！
