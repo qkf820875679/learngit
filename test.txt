@@ -7,3 +7,4 @@ this is a new line!
 this is the seventh line.
 Creating a new branch is quick and simple
 inser a new line.
+insert a new line.
