@@ -1,1 +1,2 @@
-This is a new TextFile 我也修改了文件哈哈哈哈！
+<<<<<<< HEAD
+This is a new TextFile 咱们谁也别修改了
