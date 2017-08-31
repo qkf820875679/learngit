@@ -5,4 +5,4 @@ this is a new line!
 这是第五行！
 这是第六行！
 this is the seventh line.
-Creating a new branch is quick & simple
+Creating a new branch is quick and simple
