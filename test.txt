@@ -6,3 +6,4 @@ this is a new line!
 这是第六行！
 this is the seventh line.
 Creating a new branch is quick and simple
+inser a new line.
